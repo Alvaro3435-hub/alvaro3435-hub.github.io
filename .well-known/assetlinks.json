@@ -5,4 +5,12 @@
         "package_name": "io.github.alvaro3435_hub.twa",
         "sha256_cert_fingerprints": ["89:7B:63:23:57:EA:F5:9F:57:69:26:32:CF:D7:DF:9E:45:24:ED:CB:E5:26:AA:60:4F:20:58:3E:AF:AD:9A:1C"]
       }
+    }],
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alvaro3435_hub.twa",
+        "sha256_cert_fingerprints": ["C6:C4:47:DC:55:6A:C1:8D:54:DB:4C:B8:4B:24:9F:31:88:FB:E0:CE:01:F3:C3:FF:B5:EB:D3:82:17:FC:AF:54"]
+      }
     }]
